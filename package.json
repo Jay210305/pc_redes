@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_creativo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay210305/pc_redes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay210305/pc_redes/issues"
+  },
+  "homepage": "https://github.com/Jay210305/pc_redes#readme",
+  "description": ""
+}
